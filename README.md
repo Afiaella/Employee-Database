@@ -36,3 +36,6 @@ Once you have I completed database, I performed these steps:
 7. Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. Listed the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/85926823/195665341-def8a91b-7836-42c0-91c4-55e03cfd98d8.png">
+
